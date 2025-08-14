@@ -11,9 +11,6 @@ This app lets you quickly generate QR codes from any text or URL you enter.
 - Works completely offline.
 - Built using pure HTML, CSS, and JavaScript (no backend required).
 
----
 
-## 📸 Preview
-![QR Code Generator Demo](https://via.placeholder.com/800x400?text=Add+Screenshot+Here)
 
 
