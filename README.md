@@ -6,7 +6,7 @@ This app lets you quickly generate QR codes from any text or URL you enter.
 ---
 
 ## 🔗 Live Demo
-👉 [Click here to try the app](https://lnkd.in/gRB2fhMD)
+👉 [Click here to try the app]([https://lnkd.in/gRB2fhMD](https://poojitha2411.github.io/simple-qr-generator/))
 
 ---
 
